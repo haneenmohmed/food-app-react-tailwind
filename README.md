@@ -4,7 +4,7 @@ A simple ReactJS web application that allows users to explore a variety of food 
 
 ## 📖 Description
 
-This project is a simple web application that showcases a list of food items. Users can interact with a hamburger menu (side navbar) to filter food items by price ( $, $$, $$$ ) and by type (burger, pizza, salad, chicken).
+This project is a simple web application that showcases a list of food items. Users can interact with a hamburger menu (side navbar) .in the web app we filter food items by price ( $, $$, $$$ ) and by type (burger, pizza, salad, chicken).
 
 ## ✨ Features
 
