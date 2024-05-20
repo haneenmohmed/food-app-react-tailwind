@@ -46,4 +46,4 @@ To get started with the project, follow these steps:
 📬 Contact:
     Haneen Mohmed - haneenmohmed0@gmail.com
    
-**Project Link: https://github.com/haneenmohmed/food-app-react-tailwind.git
+**Project Link: https://github.com/your-username/food-app-react-tailwind.git
